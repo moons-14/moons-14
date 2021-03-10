@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="left"> 
   <a href="https://github.com/moons-14/moons-14/">
     <img src="https://komarev.com/ghpvc/?username=moons-14" alt="moons-14" />
@@ -14,3 +12,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/moons/posts.svg" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
