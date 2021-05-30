@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=moons-14" alt="moons-14" />
   </a>
   <a href="http://twitter.com/moons14_">
-    <img height="20" src="https://img.shields.io/twitter/follow/moons14_?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/moons_sub?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/moons-14">
     <img height="20" src="https://img.shields.io/github/followers/moons-14?label=follow&logo=github&style=flat" />
