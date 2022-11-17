@@ -11,5 +11,5 @@
   <a href="http://qiita.com/moons">
     <img height="20" src="https://qiita-badge.apiapi.app/s/moons/posts.svg" />
   </a>
+  <a href="https://wakatime.com/@57bd8522-fc27-4f94-a130-e00e44e86e54"><img src="https://wakatime.com/badge/user/57bd8522-fc27-4f94-a130-e00e44e86e54.svg" alt="Total time coded since Mar 10 2022" /></a>
 </p>
-[![wakatime](https://wakatime.com/badge/user/57bd8522-fc27-4f94-a130-e00e44e86e54.svg)](https://wakatime.com/@57bd8522-fc27-4f94-a130-e00e44e86e54)
