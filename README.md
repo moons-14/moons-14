@@ -12,7 +12,4 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/moons/posts.svg" />
   </a>
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moons-14&count_private=true&show_icons=true" />
-</a>
+[![wakatime](https://wakatime.com/badge/user/57bd8522-fc27-4f94-a130-e00e44e86e54.svg)](https://wakatime.com/@57bd8522-fc27-4f94-a130-e00e44e86e54)
